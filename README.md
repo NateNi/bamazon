@@ -9,5 +9,10 @@ After using npm to install inquirer and mySQL, run the program in terminal (use 
 Please contact me at nniesel90@gmail.com for help with any issues.
 ## Who maintains and contributes to the project
 At this time, all work has been done by Nathan Niesel.
-## Examples of functioning code
+## Example Screenshots
+### Initializing the project
 ![Example 1](example1.PNG)
+### Attempting to order more than the available inventory
+![Example 2](example2.PNG)
+### Successfully ordering 10 tablets (product ID number 5) 
+![Example 3](example3.PNG)
